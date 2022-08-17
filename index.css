@@ -60,7 +60,6 @@ a{
 height: 100%;
 display: flex;
 align-items: center;
-
 }
 .navlink{
     height: 100%;
@@ -84,7 +83,6 @@ align-items: center;
 }
 .inline-B{
     display: inline-block;
-
 }
 
 
@@ -278,6 +276,9 @@ align-items: center;
 }
 
 /* section 5  */
+
+
+/*
 .section_5{
     height: 120vh;
     width: 100%;
@@ -294,6 +295,8 @@ align-items: center;
 video{
     height: 60vh;
 }
+
+*/
 
 
 .learnbadges{
@@ -319,7 +322,7 @@ video{
     height:90px;
     border-radius: 20px;
 
-}
+} 
 
 
 /* carousal */
@@ -547,7 +550,7 @@ video{
     padding: 20px 0px;
     border-top: 1px solid rgba(137, 137, 137, 0.486);
   }
-
+/* 
 
   @media only screen and (min-width: 1280px) {
     .contain {
@@ -568,7 +571,7 @@ video{
     .footer .col {
       width: 33%;
     }
-    .footer .col h1 {
+    .footer .col h1 
       font-size: 14px;
     }
     .footer .col ul li {
@@ -590,4 +593,4 @@ video{
     .footer .col {
       width: 100%;
     }
-  }
+  } */
