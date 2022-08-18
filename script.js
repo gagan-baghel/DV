@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
 var acc = document.getElementsByClassName("accordion");
 var i;
 
@@ -42,10 +30,6 @@ const dot1 = document.querySelector("#dot1");
 const dot2 = document.querySelector("#dot2");
 const dot3 = document.querySelector("#dot3");
 const dot4 = document.querySelector("#dot4");
-
-
-
-
 dot1.onclick=()=>{
     carousal_box.style.right = "0vw";
     dots.forEach((dot)=>{

@@ -167,7 +167,6 @@ align-items: center;
 .founder{
 display: flex;
 flex-direction: row;
-/* height: 35vh; */
 padding: 5%;
 }
 
@@ -176,7 +175,6 @@ padding: 5%;
     border-radius: 10px;
 }
 .founder h2{
-
    font-size:30px ;
    padding: 20px 20px 0 20px;
 }
