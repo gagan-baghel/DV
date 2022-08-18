@@ -19,6 +19,10 @@ body::-webkit-scrollbar {
     font-family: 'Raleway', sans-serif;
 }
 
+.faqbtn{
+  margin: 10px auto;
+}
+
 body{
     background-color: #0b3352;
 }
@@ -218,6 +222,8 @@ align-items: center;
     text-align: center;
   }
 }
+
+
 
 
 

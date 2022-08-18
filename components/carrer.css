@@ -19,6 +19,11 @@ a{
     text-decoration: none;
     color: black;
 }
+
+.faqbtn{
+  margin: 10px auto;
+}
+
 .grey{
     color:#818d9c;
     font-size: 24px;
