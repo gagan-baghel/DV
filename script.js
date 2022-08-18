@@ -1,3 +1,15 @@
+
+
+
+
+
+
+
+
+
+
+
+
 var acc = document.getElementsByClassName("accordion");
 var i;
 
@@ -62,3 +74,5 @@ dot4.onclick=()=>{
     })
     dot4.classList.add("active");
 }
+
+

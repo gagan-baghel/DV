@@ -48,7 +48,7 @@ a{
     position: sticky;
     top: 0;
     width: 100vw;
-    backdrop-filter: blur(15px)
+    backdrop-filter: blur(15px);
 }
 .logo{
     border-radius: 4px;
@@ -467,7 +467,7 @@ video{
 
 
   /* footer section  */
-  .contain{
+  .footercontain{
     display: flex;
     align-items: center;
     justify-content: center;
