@@ -19,9 +19,7 @@ body::-webkit-scrollbar {
     scrollbar-width: none;  /* Firefox */
 }
 
-.faqbtn{
-  margin: 10px auto;
-}
+
 .grey{
     color:#818d9c;
 
